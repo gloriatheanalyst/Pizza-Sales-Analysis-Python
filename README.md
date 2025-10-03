@@ -23,8 +23,8 @@ The ultimate goal is to transform raw sales data into actionable insights that s
 
 ### 🗂️ Dataset
 Source: https://www.kaggle.com/datasets/nextmillionaire/pizza-sales-dataset/data 
-This dataset contain detailed information about pizza orders, including specifics about the pizza variants, quantities, pricing, dates, times, and categorization details.
 
+This dataset contain detailed information about pizza orders, including specifics about the pizza variants, quantities, pricing, dates, times, and categorization details.
 pizza_id: A unique identifier assigned to each distinct pizza variant available for ordering.
 order_id: A unique identifier for each order made, which links to multiple pizzas.
 pizza_name_id: An identifier linking to a specific name of the pizza.
